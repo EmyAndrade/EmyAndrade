@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 ### Olá Mundo! 👋 Me chamo Emily
 
 💻 Desenvolvedor Full Stack | 🚀 Entusiasta da tecnologia
