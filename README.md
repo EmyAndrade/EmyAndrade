@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ### Olá Mundo! 👋 Me chamo Emily
 
 💻 Desenvolvedor Full Stack | 🚀 Entusiasta da tecnologia
