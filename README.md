@@ -4,7 +4,7 @@
 
 🔧 Tecnologias: React, Node.js, Python, Docker...
 
-📫 Contato: [email@example.com](mailto:email@example.com) | [LinkedIn](https://linkedin.com/in/seuperfil)
+📫 Contato: [andradecemily@gmail.com](andradecemily@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emily-andrade-205841341/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
