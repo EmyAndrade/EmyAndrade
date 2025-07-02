@@ -13,10 +13,13 @@
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/EmyAndrade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/EmilyAndrade" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/EmyAndrade"><img src="https://github-readme-stats.vercel.app/api?username=EmyAndrade&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmyAndrade's GitHub stats" /></a>
-
-<a href="https://github.com/EmyAndrade" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyAndrade&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div style="display-flex"> 
+  <div>
+    <a href="http://www.github.com/EmyAndrade"><img src="https://github-readme-stats.vercel.app/api?username=EmyAndrade&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="EmyAndrade's GitHub stats" /></a>
+  </div>
+  <div>
+    <a href="https://github.com/EmyAndrade" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmyAndrade&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  </div>
+</div>
