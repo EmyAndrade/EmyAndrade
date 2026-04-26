@@ -1,13 +1,12 @@
 <h1 align="center">Olá 👋, eu sou Emily Andrade</h1>
-<h3 align="center">💻 Desenvolvedora em constante evolução</h3>
+<h3 align="center">📊 Focada em Dados | Python • SQL • IA</h3>
 
 ---
 
 ### 🚀 Sobre mim
-- 🎓 Estudando desenvolvimento e tecnologia  
-- 💡 Interesse em **Front-end, Back-end e IA**  
-- 📚 Sempre aprendendo algo novo  
-- 🎯 Foco em evoluir e construir projetos reais  
+- 💻 Estudante de Ciência da Computação
+- 🐍 Utilizando **Python** para análise, automação e manipulação de dados
+- 📈 Interesse em **visualização de dados, machine learning e IA**  
 
 ---
 
@@ -22,11 +21,9 @@
 <p align="center">
 <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="40"/></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/></a>
 <a href="https://nextjs.org/docs" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40"/></a>
 <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="40"/></a>
