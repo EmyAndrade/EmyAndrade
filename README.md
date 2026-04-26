@@ -1,6 +1,6 @@
 ### Olá Mundo! 👋 Me chamo Emily
 
-💻 Desenvolvedor Full Stack | 🚀 Entusiasta da tecnologia
+💻 Dados
 
 📫 Contato: [andradecemily@gmail.com](andradecemily@gmail.com) | [LinkedIn](https://www.linkedin.com/in/emily-andrade-205841341/)
 
